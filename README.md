@@ -1,4 +1,4 @@
-# Advanced Revenue Upside Calculator
+# Advanced Revenue Calculator
 
 ## Project Overview
 A comprehensive React-based revenue projection tool that helps users calculate and visualize potential revenue growth over 5 years.
